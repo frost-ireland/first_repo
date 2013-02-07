@@ -1,2 +1,3 @@
 this is a third file
 finally more changes
+This is the last file in the project.
